@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+}
+.player {
+  background-color: white;
+  width: 50px;
+  border-radius: 50%;
+}
